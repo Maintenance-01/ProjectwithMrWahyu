@@ -50,7 +50,7 @@
                                 <label for="password" class="form-label">Password</label>
                                 <div class="input-group">
                                     <span class="input-group-text"><i class="bi bi-key"></i></span>
-                                    <input type="password" class="form-control" id="password" name="password" autocomplete="current-password" placeholder="Enter your GGI" required>
+                                    <input type="password" class="form-control" id="password" name="passwordSS" autocomplete="current-password" placeholder="Enter your GGI" required>
                                 </div>
                             </div>
                             <button type="submit" class="btn btn-primary w-100 login-btn">Login</button>
